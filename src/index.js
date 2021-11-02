@@ -1,7 +1,8 @@
 function info() {
+    var pjson = require('./package.json');
     const m = new Map();
-    m.set('name', 'ajs');
-    m.set('version', '1.0.0');
+    m.set('name', pjson.name);
+    m.set('version', pjson.version);
     return m;
 }
 
