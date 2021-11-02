@@ -1,0 +1,19 @@
+{
+  "name": "@elena-diploma/library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elena-diploma/node-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elena-diploma/node-library/issues"
+  },
+  "homepage": "https://github.com/Elena-diploma/node-library#readme"
+}
